@@ -23,4 +23,24 @@ The features for our model are:
 
 ---
 
+### Corelation plot
+
+![Corelation Plot](/images/1.png)
+
+### Corelation plot
+
+![Pairgrid Plot](/images/2.png)
+
+### Corelation plot
+
+![Relational Plot](/images/3.png)
+
+### Corelation plot
+
+![Accuracy of different models](/images/4.png)
+
+---
+
+## Dataset
+
 [Link Of Dataset](https://drive.google.com/file/d/1rnYMEN6y_2a86UGo4Hy9SZWICdOZkXVa/view?usp=sharing)
