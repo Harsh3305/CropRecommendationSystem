@@ -1,5 +1,7 @@
 # Crop Recommendation System
 
+
+
 ## Introduction
 
 This machine learning project’s objective is to find the best suitable crop for agricultural land by learning from the past yielded crops. Various factors are considered for determining the best yielding crop, such as the climate, which includes rainfall, temperature, and the soil contents such as the pH level, nutrient content such as N, P, K of the soil, and more. During this project, several machine learning algorithms are applied, and performance comparison is made between them.
@@ -27,15 +29,15 @@ The features for our model are:
 
 ![Corelation Plot](/images/1.png)
 
-### Corelation plot
+### Pairgrid Plot
 
 ![Pairgrid Plot](/images/2.png)
 
-### Corelation plot
+### Relational Plot
 
 ![Relational Plot](/images/3.png)
 
-### Corelation plot
+### Accuracy of different models
 
 ![Accuracy of different models](/images/4.png)
 
@@ -44,3 +46,7 @@ The features for our model are:
 ## Dataset
 
 [Link Of Dataset](https://drive.google.com/file/d/1rnYMEN6y_2a86UGo4Hy9SZWICdOZkXVa/view?usp=sharing)
+
+## Connect with us
+
+- [Github](https://github.com/Harsh3305/CropRecommendationSystem/)
