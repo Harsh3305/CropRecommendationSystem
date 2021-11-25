@@ -64,6 +64,12 @@ jupyter notebook ML_final_code.ipynb
 - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ---
+## This project is reacted with ❤️ by
+- [Harsh Verma](https://github.com/Harsh3305/) 
+- [Dhananjay Singh](https://github.com/Dhananjay19161)
+- [Nitin Kumar Das] ()
+- [Ishaan Dayal] ()
+---
 ## Connect with us
 
 - [Github](https://github.com/Harsh3305/CropRecommendationSystem/)
