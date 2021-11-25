@@ -47,6 +47,23 @@ The features for our model are:
 
 [Link Of Dataset](https://drive.google.com/file/d/1rnYMEN6y_2a86UGo4Hy9SZWICdOZkXVa/view?usp=sharing)
 
+## Command to run code
+
+```
+jupyter notebook ML_final_code.ipynb
+```
+
+---
+
+## Libraries used in project
+
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
+
+---
 ## Connect with us
 
 - [Github](https://github.com/Harsh3305/CropRecommendationSystem/)
