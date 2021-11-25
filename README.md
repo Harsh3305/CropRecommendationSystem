@@ -67,8 +67,8 @@ jupyter notebook ML_final_code.ipynb
 ## This project is creacted with ❤️ by
 - [Harsh Verma](https://github.com/Harsh3305/) 
 - [Dhananjay Singh](https://github.com/Dhananjay19161)
-- [Nitin Kumar Das] (https://github.com/nitin23329)
-- [Ishaan Dayal] ()
+- [Nitin Kumar Das](https://github.com/nitin23329)
+- [Ishaan Dayal]()
 ---
 ## Connect with us
 
